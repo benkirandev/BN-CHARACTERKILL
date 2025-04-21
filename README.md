@@ -6,4 +6,4 @@ Developer Benkirane provides you with a text resource to facilitate the deletion
 - start resource
 - use commande ```/ck```
 # support 
-https://discord.gg/DZxHb2A4tR
+[Discord](https://discord.gg/DZxHb2A4tR)
